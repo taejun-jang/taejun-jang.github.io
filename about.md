@@ -6,10 +6,7 @@ permalink: /about/
 
 ## Tae Jun Jang
 > Information
-- M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University (2018.03 - )
-- B.S. in Mathematics, Dongguk University (2011.03-2018.02)
-
-> Contact
+- M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
 - taejunjang@yonsei.ac.kr
 
 > Interests
