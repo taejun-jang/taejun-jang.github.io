@@ -6,10 +6,12 @@ permalink: /about/
 
 ## Tae Jun Jang
 > Information
+
 M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
 Email : taejunjang@yonsei.ac.kr
 
 > Interests
+
 Deep Learning
 Image Processing
 Medical Image Analysis
