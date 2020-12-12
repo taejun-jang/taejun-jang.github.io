@@ -6,19 +6,19 @@ permalink: /about/
 
 ## Tae Jun Jang
 > Information
-- M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
-- Email : taejunjang@yonsei.ac.kr
+M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
+Email : taejunjang@yonsei.ac.kr
 
 > Interests
-- Deep Learning
-- Image Processing
-- Medical Image Analysis
-- Computerized Tomography
-- Applied Mathematics
+Deep Learning
+Image Processing
+Medical Image Analysis
+Computerized Tomography
+Applied Mathematics
 
 > Publications
 
-Hye Sun Yun, Tae Jun Jang, Sung Min Lee, Sang-hwy Lee, and Jin Keun Seo, "Learning-based local-to-global landmark annotation for automatic 3D cephalometry," <em>Physics in Medicine & Biology, 65(8), 085018, 2020.
+Hye Sun Yun, Tae Jun Jang, Sung Min Lee, Sang-hwy Lee, and Jin Keun Seo, "Learning-based local-to-global landmark annotation for automatic 3D cephalometry," <em>Physics in Medicine & Biology</em>, 65(8), 085018, 2020.
 
 > Posters
 
