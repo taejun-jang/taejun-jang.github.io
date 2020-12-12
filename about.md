@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Tae Jun Jang
-> MS+Ph.D student / School of Mathematics and Computing / Yonsei University
+## Tae Jun Jang (MS+Ph.D student)
+> School of Mathematics and Computing, Yonsei University
 
 ### Features
 - Responsive.
