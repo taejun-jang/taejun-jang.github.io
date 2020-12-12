@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Tae Jun Jang
+> MS+Ph.D student / School of Mathematics and Computing / Yonsei University
 
 ### Features
 - Responsive.
