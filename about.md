@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 ## Tae Jun Jang
-> MS+Ph.D student
-> School of Mathematics and Computing
-> Yonsei University
+> MS+Ph.D student <br> School of Mathematics and Computing <br> Yonsei University
 
 ## Interests
 - Deep learning
