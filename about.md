@@ -7,7 +7,7 @@ permalink: /about/
 ## Tae Jun Jang
 > Career
 
-- M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University, Korea (2018.03 - )
+- M.S. + Ph.D. in School of Mathematics and Computing, Yonsei University, Korea (2018.03 - )
 
 
 > Interests
