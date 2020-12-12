@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## Tae Jun Jang (taejunjang@yonsei.ac.kr)
+## Tae Jun Jang
 > M.S.+Ph.D. student, School of Mathematics and Computing, Yonsei University, South Korea
-
+- taejunjang@yonsei.ac.kr
 
 ## Interests
 > Deep Learning, Image Processing, Medical Image Analysis, Computerized Tomography, Applied Mathematics
+
+
 
 ### Features
 - Responsive.
