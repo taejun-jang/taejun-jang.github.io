@@ -8,7 +8,9 @@ permalink: /about/
 > Information
 - M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University (2018.03 - )
 - B.S. in Mathematics, Dongguk University (2011.03-2018.02)
-- Email : taejunjang@yonsei.ac.kr
+
+> Contact
+- taejunjang@yonsei.ac.kr
 
 > Interests
 - Deep Learning
