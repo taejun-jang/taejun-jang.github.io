@@ -22,7 +22,7 @@ title: Taejun Jang
 email: taejunjang@yonsei.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Blog
-baseurl: "http://taejun-jang.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: TJ Jang
 highlighter: rouge
