@@ -40,7 +40,7 @@ Email : taejunjang@yonsei.ac.kr
 <ol>
 <li> "Interpretable nonlinear principal component analysis for cephalometric morphology," <em>KSIAM 2019 Spring Meeting </em>, Seoul, Korea, May. 2019. </li>
 <li> "Head CT image skull segmentation for 3D cephalometry using deep learning," <em>ICIAM 2019</em>, Valencia, Spain, Jul. 2019. </li>
-<li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," <em>18th Yonsei CSE Poster Exhibition</em>, Seoul, Korea, Nov, 2020. </li>
+<li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," <em>18th CSE Poster Exhibition</em>, Seoul, Korea, Nov, 2020. </li>
 </ol>
 
 
