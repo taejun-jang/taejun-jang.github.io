@@ -8,15 +8,16 @@ permalink: /about/
 > Information
 
 M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
+
 Email : taejunjang@yonsei.ac.kr
 
 > Interests
 
-Deep Learning
-Image Processing
-Medical Image Analysis
-Computerized Tomography
-Applied Mathematics
+- Deep Learning
+- Image Processing
+- Medical Image Analysis
+- Computerized Tomography
+- Applied Mathematics
 
 > Publications
 
