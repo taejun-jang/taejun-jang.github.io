@@ -29,6 +29,13 @@ Email : taejunjang@yonsei.ac.kr
 </ol>
 
 
+> Presentations
+<ol>
+<li> "Image segmentation techniques for deep learning," 4th CSE Winter School, Jan. 2019, Seoul, Korea. </li>
+<li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," 2020 CT meeting, Aug. 2020, Regensburg, Germany. </li>
+<li> "Digital dentistry," KSIAM 2020 Annual Meeting, Nov, 2020, Jeju, Korea. </li>
+</ol>
+
 > Posters
 
 
