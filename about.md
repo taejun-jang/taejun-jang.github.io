@@ -39,16 +39,3 @@ permalink: /about/
 <li> "Head CT image skull segmentation for 3D cephalometry using deep learning," <em>ICIAM 2019</em>, Valencia, Spain, Jul. 2019. </li>
 <li> "Interpretable nonlinear principal component analysis for cephalometric morphology," <em>KSIAM 2019 Spring Meeting </em>, Seoul, Korea, May. 2019. </li>
 </ol>
-
-
-<!--
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
-
