@@ -20,7 +20,7 @@ Applied Mathematics
 
 > Publications
 
-H. S. Yun, <strong>T. J. Jang</strong>, S. M. Lee, S.-H. Lee, and J. K. Seo, "Learning-based local-to-global landmark annotation for automatic 3D cephalometry," <em>Physics in Medicine & Biology</em>, 65(8), 085018, 2020.
+<h6 >H. S. Yun, <strong>T. J. Jang</strong>, S. M. Lee, S.-H. Lee, and J. K. Seo, "Learning-based local-to-global landmark annotation for automatic 3D cephalometry," <em>Physics in Medicine & Biology</em>, 65(8), 085018, 2020. </h6>
 
 > Posters
 
