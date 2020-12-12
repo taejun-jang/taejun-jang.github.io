@@ -8,11 +8,7 @@ permalink: /about/
 > MS+Ph.D student <br> School of Mathematics and Computing <br> Yonsei University
 
 ## Interests
-> Deep Learning <br>
-Image Processing <br>
-Medical Image Analysis <br>
-Computerized Tomography <br>
-Applied Mathematics <br>
+> Deep Learning, Image Processing, Medical Image Analysis, Computerized Tomography, Applied Mathematics
 
 ### Features
 - Responsive.
