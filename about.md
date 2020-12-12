@@ -11,16 +11,16 @@ M.S.+Ph.D. in School of Mathematics and Computing, Yonsei University
 
 Email : taejunjang@yonsei.ac.kr
 
-> Interests
 
+> Interests
 - Deep Learning
 - Image Processing
 - Medical Image Analysis
 - Computerized Tomography
 - Applied Mathematics
 
-> Publications
 
+> Publications
 <ol>
 <li> H. S. Yun, <strong>T. J. Jang</strong>, S. M. Lee, S.-H. Lee, and J. K. Seo, "Learning-based local-to-global landmark annotation for automatic 3D cephalometry," <em>Physics in Medicine & Biology</em>, 65(8), 085018, 2020. </li>
 <li> K. C. Kim, H. C. Cho, <strong>T. J. Jang</strong>, J. M. Choi, and J. K. Seo, "Automatic detection and segmentation of lumbar vertebra from X-ray images for compression fracture evaluation," <em>Computer Methods and Programs in Biomedicine</em>, 105833, 2020. </li>
