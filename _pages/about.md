@@ -16,9 +16,10 @@ permalink: /about/
 > Research interests
 
 - Deep Learning for Computer Vision
+- Image Processing
 - Medical Image Analysis
 - Computerized Tomography, Medical Imaging
-
+- Applied Mathematics
 
 > Publications
 <ol>
