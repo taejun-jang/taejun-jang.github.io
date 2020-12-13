@@ -18,7 +18,6 @@ permalink: /about/
 - Deep Learning for Computer Vision
 - Medical Image Analysis
 - Computerized Tomography, Medical Imaging
-- Inverse Problem
 
 
 > Publications
