@@ -15,8 +15,8 @@ permalink: /about/
 
 > Research interests
 
-- Deep Learning for Medical Image Analysis
-- Image Processing
+- Deep Learning for Computer Vision
+- Medical Image Analysis
 - Computerized Tomography, Medical Imaging
 - Inverse Problem
 
