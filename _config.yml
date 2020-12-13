@@ -1,7 +1,7 @@
 # Site settings
 title:          Taejun Jang
 description:    "Blog"
-baseurl:        ""
+baseurl:        "https://taejun-jang.github.io/about"
 url:            "https://taejun-jang.github.io"
 
 # Google Analytics
