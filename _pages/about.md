@@ -10,7 +10,6 @@ permalink: /about/
 > Career
 
 - M.S. + Ph.D. in School of Mathematics and Computing, Yonsei University, Korea. (2018.03 - )
-- B.S. in Mathematics, Dongguk University, Korea. (2011.03 - 2018.02)
 
 
 > Research interests
