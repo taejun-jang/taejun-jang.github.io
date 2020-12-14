@@ -31,7 +31,7 @@ permalink: /about/
 
 > Presentations
 <ol>
-<li> "Digital dentistry: paradigm-shift dental practice," <em>KSIAM 2020 Annual Meeting</em>, Jeju, Korea, Nov, 2020. </li>
+<li> "Digital dentistry: paradigm-shift dental practice," <em>KSIAM 2020 Annual Meeting</em>, Seogwipo, Korea, Nov, 2020. </li>
 <li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," <em>2020 CT meeting</em>, Regensburg, Germany, Aug. 2020. </li>
 <li> "Image segmentation techniques for deep learning," <em>4th CSE Winter School</em>, Seoul, Korea, Jan. 2019. </li>
 </ol>
