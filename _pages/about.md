@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 # Taejun Jang 
-taejunjang@yonsei.ac.kr
+Email : taejunjang@yonsei.ac.kr
 
 > Career
 
