@@ -32,15 +32,15 @@ taejunjang@yonsei.ac.kr
 
 > Presentations
 <ol>
-<li> "Digital dentistry: paradigm-shift dental practice," <em>KSIAM 2020 annual meeting</em>, Seogwipo, South Korea, Nov, 2020. </li>
-<li> "Image segmentation techniques for deep learning," <em>The 4th CSE winter school</em>, Seoul, South Korea, Jan. 2019. </li>
-<li> "Image processing by applying mathematical methods," <em>The 12th college of natural science student research project contest (Dongguk university)</em>, Seoul, South Korea, Oct. 2017. </li>
+<li> "Digital dentistry: paradigm-shift dental practice," <em>KSIAM 2020 Annual Meeting</em>, Seogwipo, South Korea, Nov, 2020. </li>
+<li> "Image segmentation techniques for deep learning," <em>The 4th CSE Winter School</em>, Seoul, South Korea, Jan. 2019. </li>
+<li> "Image processing by applying mathematical methods," <em>The 12th College of Natural Science Student Research Project Contest (Dongguk University)</em>, Seoul, South Korea, Oct. 2017. </li>
 </ol>
 
 > Posters
 <ol>
-<li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," <em>The 18th CSE poster exhibition</em>, Seoul, South Korea, Nov, 2020. </li>
-<li> "Deep learning-based dental segmentation and tooth identification in dental cone-Beam CT," <em>2020 CT meeting</em>, Regensburg, Germany, Aug. 2020. </li>
+<li> "A fully automated method for individual tooth identification and segmentation in dental CBCT," <em>The 18th CSE Poster Exhibition</em>, Seoul, South Korea, Nov, 2020. </li>
+<li> "Deep learning-based dental segmentation and tooth identification in dental cone-Beam CT," <em>2020 CT Meeting</em>, Regensburg, Germany, Aug. 2020. </li>
 <li> "Head CT image skull segmentation for 3D cephalometry using deep learning," <em>ICIAM 2019</em>, Valencia, Spain, Jul. 2019. </li>
-<li> "Interpretable nonlinear principal component analysis for cephalometric morphology," <em>KSIAM 2019 spring meeting </em>, Seoul, South Korea, May. 2019. </li>
+<li> "Interpretable nonlinear principal component analysis for cephalometric morphology," <em>KSIAM 2019 Spring Meeting </em>, Seoul, South Korea, May. 2019. </li>
 </ol>
