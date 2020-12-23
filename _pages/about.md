@@ -6,12 +6,11 @@ permalink: /about/
 ---
 
 # Taejun Jang 
-Email : taejunjang@yonsei.ac.kr
+taejunjang@yonsei.ac.kr
 
 > Career
 
 - M.S. + Ph.D. in School of Mathematics and Computing, Yonsei University, South Korea. (2018.03 - )
-- B.S. in Department of Mathematics, Dongguk University, South Korea. (2011.03 - 2018.02)
 
 > Research interests
 
@@ -34,7 +33,6 @@ Email : taejunjang@yonsei.ac.kr
 <ol>
 <li> "Digital dentistry: paradigm-shift dental practice," <em>KSIAM 2020 Annual Meeting</em>, Seogwipo, South Korea, Nov, 2020. </li>
 <li> "Image segmentation techniques for deep learning," <em>The 4th CSE Winter School</em>, Seoul, South Korea, Jan. 2019. </li>
-<li> "Image processing by applying mathematical methods," <em>The 12th College of Natural Science Student Research Project Contest (Dongguk University)</em>, Seoul, South Korea, Oct. 2017. </li>
 </ol>
 
 > Posters
