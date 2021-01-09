@@ -16,7 +16,7 @@ taejunjang@yonsei.ac.kr
 
 - Deep learning for computer vision
 - Image processing
-- Medical image analysis
+- Medical image analysis and computing
 - Computerized tomography, Medical imaging
 - Applied mathematics
 
